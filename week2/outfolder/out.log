@@ -1,0 +1,30 @@
+#TYPE System.IO.FileInfo
+"PSPath","PSParentPath","PSChildName","PSDrive","PSProvider","PSIsContainer","Mode","VersionInfo","BaseName","Target","LinkType","Name","Length","DirectoryName","Directory","IsReadOnly","Exists","FullName","Extension","CreationTime","CreationTimeUtc","LastAccessTime","LastAccessTimeUtc","LastWriteTime","LastWriteTimeUtc","Attributes"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\SYS320-01\week2\PowerShell Basic Lab.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\SYS320-01\week2","PowerShell Basic Lab.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\SYS320-01\week2\PowerShell Basic Lab.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","PowerShell Basic Lab","System.Collections.Generic.List`1[System.String]",,"PowerShell Basic Lab.ps1","1900","C:\Users\champuser\SYS320-01\week2","C:\Users\champuser\SYS320-01\week2","False","True","C:\Users\champuser\SYS320-01\week2\PowerShell Basic Lab.ps1",".ps1","1/22/2025 1:06:25 PM","1/22/2025 6:06:25 PM","1/28/2025 12:19:44 PM","1/28/2025 5:19:44 PM","1/28/2025 12:19:44 PM","1/28/2025 5:19:44 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\SYS320-01\week2\test.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\SYS320-01\week2","test.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\SYS320-01\week2\test.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","test","System.Collections.Generic.List`1[System.String]",,"test.ps1","4","C:\Users\champuser\SYS320-01\week2","C:\Users\champuser\SYS320-01\week2","False","True","C:\Users\champuser\SYS320-01\week2\test.ps1",".ps1","1/22/2025 2:57:06 PM","1/22/2025 7:57:06 PM","1/22/2025 2:57:06 PM","1/22/2025 7:57:06 PM","1/22/2025 2:57:06 PM","1/22/2025 7:57:06 PM","Archive"
