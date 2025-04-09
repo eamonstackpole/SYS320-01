@@ -81,7 +81,7 @@ function frequentVisitors(){
 # only display the unique count of IP addresses.  
 # Hint: there are examples in slides
 
-#Only functionality untested is \.\./ as it would default to // or /.
+# Only functionality untested is \.\./ as it would default to // or /.
 function suspiciousVisitors(){
 	local indList=()
 	readarray -t indList < "ioc.txt"
